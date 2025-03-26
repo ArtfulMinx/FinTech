@@ -19,7 +19,7 @@ const FinBrightCommunityApp = () => {
     { id: 'investing', name: 'Investment Wizard', icon: <Percent />, pointsRequired: 150 }
   ]);
 
-  // Simulated community data reflecting Riverwood's demographics
+  // Simulated community data reflecting Riverwoods demographics
   const communityData = {
     referrals: 42,
     totalSavings: 487500,
